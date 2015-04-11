@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone copies a public Git repository so you can add your work to it. It’s used when you need to collaborate with someone.  By cloning the project you will get entire history of that project so you have it locally to view the code and edit it.

@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+The branch in Git is kind of a “pointer”. The default branch is master. Every time you commit it moves forward. When you create a new branch you are gaining another pointer at the same commit you’re currently on. You can freely switch between branches and make changes, which are isolated from each other. You can also merge the branches together when you are ready.
